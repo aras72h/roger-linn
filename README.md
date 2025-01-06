@@ -2,7 +2,7 @@
 
 This is a simple HTML/CSS project showcasing information about Roger Linn, the renowned designer of electronic music products.
 
-## Live Preview: [Link](http://linn.alelon.com/)
+## Live Preview: [Link](https://aras72h.github.io/roger-linn/)
 
 <img src="./img/screenshot-desktop.png" width="600">
 
