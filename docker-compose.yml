@@ -1,0 +1,7 @@
+version: '3'
+services:
+  web:
+    image: roger-linn
+    container_name: roger-linn-container
+    ports:
+      - "8080:80"

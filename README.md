@@ -23,3 +23,9 @@ Roger Linn is a pioneering figure in the realm of electronic music. This project
 - Clear presentation of career highlights.
 - Visually appealing design.
 
+
+### Docker Deployment
+```sh
+docker built -t roger-linn
+docker-compose up -d
+```
