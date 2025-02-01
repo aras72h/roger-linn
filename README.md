@@ -26,6 +26,6 @@ Roger Linn is a pioneering figure in the realm of electronic music. This project
 
 ### Docker Deployment
 ```sh
-docker built -t roger-linn
+docker build -t roger-linn
 docker-compose up -d
 ```
